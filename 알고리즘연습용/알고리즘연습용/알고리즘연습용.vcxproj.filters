@@ -15,33 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Text.txt">
-      <Filter>리소스 파일</Filter>
-    </Text>
-    <Text Include="arrange.txt">
-      <Filter>리소스 파일</Filter>
-    </Text>
-    <Text Include="hello.txt">
-      <Filter>리소스 파일</Filter>
-    </Text>
-    <Text Include="dict.txt">
-      <Filter>리소스 파일</Filter>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="파일입출력.cpp">
+    <ClCompile Include="구조체.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="파일전체출력.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="소스.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="제한된버퍼로 전체읽기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="과제1.c">
+    <ClCompile Include="구조체동적메모리할당.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
